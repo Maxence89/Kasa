@@ -1,9 +1,7 @@
-
+import Router from "./Router";
 
 function App() {
-
-  return <p>Kasa</p>
-
+  return <Router />;
 }
 
-export default App
+export default App;
